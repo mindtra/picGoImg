@@ -1,2 +1,2 @@
 # picGoImg
-**only some temporary pictures.**
+**Only some temporary pictures.**
